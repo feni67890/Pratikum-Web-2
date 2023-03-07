@@ -57,4 +57,9 @@
   <hr class="col-12">
 </div>
 </body>
+<ul> <br> Nama Customer : Feni Fitriani </br>
+    <br> Produk Pilihan: Mesin C </br>
+    <br> Jumlah  Barang  : 1 </br>
+    <br> Total Belanja  :  3.100.00 </br>
+ </ul>
 </html>
