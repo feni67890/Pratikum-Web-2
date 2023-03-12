@@ -99,7 +99,7 @@ $domisilis =['Jakarta','Depok','Bogor','Tanggerang','Bekasi',];
            </div>
             
            <?php } ?>
-     
+          
     </div>
         </div>
   <div class="form-group row">
@@ -131,6 +131,11 @@ $domisilis =['Jakarta','Depok','Bogor','Tanggerang','Bekasi',];
     </div>
   </div>
 </form>
-    </div>
+       </div> 
+
+  
+</div>
+
 </body>
 </html>
+
